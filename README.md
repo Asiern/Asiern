@@ -19,6 +19,8 @@
 ![](https://img.shields.io/badge/-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/-Intellij%20IDEA-informational?style=flat&logo=Intellij%20IDEA&logoColor=white&color=000)
+![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/-Yarn-informational?style=flat&logo=Yarn&logoColor=white&color=2C8EBB)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Asiern&show_icons=true)](https://github.com/asiern)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=speedrunhub)](https://github.com/asiern/speedrunhub)
