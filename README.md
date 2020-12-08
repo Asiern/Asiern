@@ -2,7 +2,7 @@
 
 🔭 *I’m currently working on* [SpeedrunHub](https://github.com/asiern/speedrunhub) <br>
 🌱 *Currently Learning*: React-Native<br>
-📫 *How to reach me:* [Email](asiern.dev@gmail.com)
+📫 *How to reach me:* [Email](mailto:asiern.dev@gmail.com)
 
 #### Languages
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007acc)
