@@ -24,5 +24,4 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Asiern&show_icons=true)](https://github.com/asiern)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=speedrunhub)](https://github.com/asiern/speedrunhub)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=spritends)](https://github.com/asiern/spritends)
 
