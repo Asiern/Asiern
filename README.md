@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Asier.
 
 📖 *Studying Computer Science at* EHU<br>
-🔭 *I’m currently working on* [SpeedrunHub](https://github.com/asiern/speedrunhub) & [NieR Hook](https://github.com/asiern/NieRHook) <br>
+🔭 *I’m currently working on* [SpeedrunHub](https://github.com/asiern/speedrunhub) & [NieR Automata Gadget](https://github.com/asiern/NieRAutomataGadget) <br>
 🌱 *Currently Learning*: <b>C++</b><br>
 📫 *How to reach me:* [Email](mailto:asiern.dev@gmail.com)
 
@@ -24,4 +24,4 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Asiern&show_icons=true)](https://github.com/asiern)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=speedrunhub)](https://github.com/asiern/speedrunhub)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=NieRHook)](https://github.com/asiern/NieRHook)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=NieRAutomataGadget)](https://github.com/asiern/NieRAutomataGadget)
