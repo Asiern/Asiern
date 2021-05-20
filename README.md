@@ -26,5 +26,3 @@
 ![](https://img.shields.io/badge/-Adobe%20Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Asiern&show_icons=true)](https://github.com/asiern)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=speedrunhub)](https://github.com/asiern/speedrunhub)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asiern&repo=AutomataGadget)](https://github.com/asiern/AutomataGadget)
