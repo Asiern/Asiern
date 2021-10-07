@@ -24,5 +24,9 @@
 ![](https://img.shields.io/badge/-Yarn-informational?style=flat&logo=Yarn&logoColor=white&color=2C8EBB)
 ![](https://img.shields.io/badge/-Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=FF61F6)
 ![](https://img.shields.io/badge/-Adobe%20Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=CMake&logoColor=white&color=064F8C)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Asiern&show_icons=true)](https://github.com/asiern)<br>
