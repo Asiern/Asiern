@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Asier.
 
 📖 *Studying Computer Science at* EHU<br>
-🔭 *I’m currently working on* [Audio](https://github.com/asiern/Audio) <br>
+🔭 *I’m currently working on* [ERGadget](https://github.com/asiern/ERGadget) <br>
 🌱 *Currently Learning*: <b>C++</b><br>
 📫 *How to reach me:* [Email](mailto:asiern.dev@gmail.com)
 
