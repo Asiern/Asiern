@@ -5,6 +5,8 @@
 🌱 *Currently Learning*: <b>C++</b><br>
 📫 *How to reach me:* [Email](mailto:asiern.dev@gmail.com)
 
+<img src="https://www.hackthebox.com/badge/image/913781">
+
 #### Languages
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
